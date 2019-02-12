@@ -4,7 +4,7 @@ creation of the database. A table for students, classes, absences, and 8 test re
 section includes example queries and statements that could be used within the database to explore and narrow down specific
 data points. Examples of possible real world examples of how we could use this specific database would be modifying test scores
 due to absences, the input of a new student coming in, or to look up the average of all sums of a specific test score to verify
-the average score for the whole class. 
+the average score for the whole class.#
 
 Section 1
 -----------------------------
