@@ -1,5 +1,5 @@
 
-#This is a sample school system database created from scratch with guidance. The first section of this SQL scrip includes the
+#This is a sample school system database created from scratch with guidance. The first section of this SQL script includes the
 creation of the database. A table for students, classes, absences, and 8 test results for a total of 8 students. The second
 section includes example queries and statements that could be used within the database to explore and narrow down specific
 data points. Examples of possible real world examples of how we could use this specific database would be modifying test scores
